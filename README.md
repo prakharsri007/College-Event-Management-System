@@ -6,3 +6,5 @@ Our website offers a comprehensive range of services to help you plan and execut
 Our team of event planners has years of experience in the industry and is dedicated to ensuring that every event we plan is a success. We work closely with our clients to understand their vision and goals for the event and execute them flawlessly. Whether you need help with event design, vendor management, or event logistics, we’ve got you covered.
 
 On our website, you’ll find information about our services, our team, and examples of our past work. You can also request a consultation to discuss your event needs and receive a customized quote. We believe that every event is unique, and we’re committed to helping you create an unforgettable experience for your guests. Contact us today to start planning your next event!
+
+The college Event Management System will prove to be very helpful to deal and manage with several simultaneous events taking place at a time in the college.
